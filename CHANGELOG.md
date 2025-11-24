@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.12.1 - 2025-11-23
+* Remove the "use `all_crates` method" suggestion from documentation.
+
 ## 0.12.0 - 2025-08-20
 
 * feat: add checksum to version types

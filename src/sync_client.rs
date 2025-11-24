@@ -268,9 +268,6 @@ impl SyncClient {
 
     /// Retrieve a page of crates, optionally constrained by a query.
     ///
-    /// If you want to get all results without worrying about paging,
-    /// use [`all_crates`].
-    ///
     /// # Examples
     ///
     /// Retrieve the first page of results for the query "api", with 100 items
